@@ -25,5 +25,4 @@ A simple web-based financial tracker built using **HTML, CSS, and JavaScript**.
 4. Entries appear in the list  
 5. Use edit/delete buttons for modifications  
 6. Filters help view specific types  
-7. Summary updates automatically  
-
+7. Summary updates automatical
