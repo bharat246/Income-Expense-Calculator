@@ -2,7 +2,7 @@
 
 A simple web-based financial tracker built using **HTML, CSS, and JavaScript**.
 
-## 🚀 Features
+## Features
 - Add income and expense entries  
 - Edit and delete entries  
 - Filter records (All / Income / Expense)  
@@ -13,12 +13,12 @@ A simple web-based financial tracker built using **HTML, CSS, and JavaScript**.
   - Total Expense  
   - Net Balance  
 
-## 🛠️ Tech Stack
+## Tech Stack
 - HTML  
 - CSS  
 - JavaScript  
 
-## 📌 How to Use
+## How to Use
 1. Enter description and amount  
 2. Select type (Income / Expense)  
 3. Click **Add**  
